@@ -25,3 +25,7 @@ p + a {
 a {
 	color: orange;
 }
+
+li li {
+	color: blue;
+}
