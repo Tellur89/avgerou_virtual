@@ -1,0 +1,27 @@
+h1 {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+#title {
+	color: coral;
+}
+
+.border-blue {
+	border: 2px solid black;
+	padding: 20px;
+}
+
+div > p {
+	color: blue;
+}
+
+p + a {
+	color: red;
+}
+a {
+	color: orange;
+}
